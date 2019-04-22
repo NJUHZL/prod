@@ -1,2 +1,4 @@
 # prod
-生产环境相关
+纯生产环境文件项目
+
+node prod.server.js启动
